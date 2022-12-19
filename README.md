@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axelb152
 - 👀 I’m interested in coding, music and all things travel.
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on educational projects
+- 👨🏻‍💻 HTML, CSS, Javascript, Ruby on Rails
+- 📚 I’m looking to collaborate on educational projects
 - 📫 How to reach me axel.bagenal@gmail.com
 
 <!---
