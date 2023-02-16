@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @axelb152
+- 👋 Hi, I’m Axel
 - 👀 I’m interested in coding, music and all things creative.
-- 👨🏻‍💻 HTML, CSS, Javascript, Ruby on Rails
+- 👨🏻‍💻 HTML, CSS, Javascript & Ruby
+- 📑 Learning Typescript
+- 🧮 Frameworks: Ruby on Rails, React
 - 📚 I’m looking to collaborate on educational projects
-- 📫 How to reach me axel.bagenal@gmail.com
-- 🔗 All of my projects are available at https://tinyurl.com/4ttc7afc
-- 📜 Know about my experiences https://tinyurl.com/49f8r2k9
+- 📫 axel.bagenal@gmail.com
+- 🔗 Find more from me: https://linktr.ee/axelbagenal
 - ⚡ Fun fact: I once swam with Orcas by chance in Marlborough NZ.
 
 <!---
