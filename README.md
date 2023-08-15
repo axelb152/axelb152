@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, music and all things creative.
 - 👨🏻‍💻 HTML, CSS, Javascript & Ruby
 - 📑 Learning Typescript
-- 🧮 Frameworks: Ruby on Rails, React
+- 🧮 Frameworks: Ruby on Rails, React, Svelte
 - 📚 I’m looking to collaborate on educational projects
 - 📫 axel.bagenal@gmail.com
 - 🔗 Find more from me: https://linktr.ee/axelbagenal
