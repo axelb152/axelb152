@@ -7,7 +7,7 @@
 #### 📚 Looking to collaborate on: Educational projects
 #### ⚡ Fun fact: I once swam with Orcas by chance in Marlborough NZ.
 
-<h2>🔗 Find more from me: https://linktr.ee/axelbagenal</h2>
+<h3>🔗 Find more from me: https://linktr.ee/axelbagenal</h3>
 
 
 <!---
