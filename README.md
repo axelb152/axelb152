@@ -3,7 +3,7 @@
 #### 👀 I’m interested in coding, music and all things creative
 #### 👨🏻‍💻 Skills: HTML, CSS, Javascript & Ruby
 #### 📑 Currently learning: Typescript
-#### 🧮 Frameworks: **Ruby on Rails, React, Svelte**
+#### 🧮 Frameworks: **Ruby on Rails, jQuery, Svelte**
 #### 📚 Looking to collaborate on: Educational projects
 #### ⚡ Fun fact: I once swam with Orcas by chance in Marlborough NZ.
 
